@@ -36,3 +36,5 @@ Este conjunto de datos tiene como finalidad proporcionar información sobre la r
 
 ## Licencia
 Cualquier persona es libre de compartir y utilizar los datos.
+
+la base de datos esta .[aqui](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
